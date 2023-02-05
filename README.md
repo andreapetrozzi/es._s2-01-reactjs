@@ -62,4 +62,4 @@ will return all comments from a single movie
 
 ### Terminal Commands
 - `npm i bootstrap@4.6.1`;
-. `npm i react - bootstrap@1.6.5`
+- `npm i react - bootstrap@1.6.5`
